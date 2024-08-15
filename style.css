@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navigation-bar{
+    height: 70px;
+    background-color: black;
+}
+
+.panel-bar{
+    height: 30px;
+    background-color: slategray;
+}
